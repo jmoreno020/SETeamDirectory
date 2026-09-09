@@ -4,7 +4,7 @@
 * [BetterTicket]()
 * [CampusCuisines]()
 * [ClassFinder]()
-* [CreditCardMatch]()
+* [CreditCardMatch](teams/CreditCardMatch.md)
 * [MedCheck]()
 * [PrismaticLauncher]()
 * [QuickCop]()
