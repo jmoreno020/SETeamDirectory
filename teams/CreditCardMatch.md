@@ -1,3 +1,3 @@
 name + user profile link:
 
-Jonathan Ortiz Guzman - https://github.com/jortizguzman-lgtm
+- Jonathan Ortiz Guzman [Profile](https://github.com/jortizguzman-lgtm)
